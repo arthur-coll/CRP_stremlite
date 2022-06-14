@@ -33,7 +33,7 @@ st.write("In the following plots we detail our result of developping an  index t
 
 #SideBar Creation
 st.sidebar.title("Selection")
-aggregation = st.sidebar.radio("Aggregation level", ["Monthly","Weekly","Daily"])
+aggregation = st.sidebar.radio("Aggregation level", ["Daily","Weekly","Monthly"])
 
 
 min_date = datetime(2016,12,10)

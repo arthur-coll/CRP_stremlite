@@ -72,7 +72,7 @@ if scale:
     plt.ylim(ymax = 1, ymin = 0)
 st.pyplot(f)
 
-st.title("Impact of politicians support on twitter")
+st.title("Impact of politicians support on Social Media")
 
 #Second Plot
 

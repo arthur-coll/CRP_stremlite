@@ -103,7 +103,7 @@ if fillion:
     
 
 #Plot creation
-plt.title('Support of candidates on Twitter')
+plt.title('Support of candidates on Social Media')
 plt.xlabel(var)
 plt.ylabel('Stability')
 plt.xticks(rotation ='vertical',fontsize=8)
